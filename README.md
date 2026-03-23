@@ -1,4 +1,4 @@
-# Satellite Thermal Control and ACS Modeling
+# Space Systems Modeling
 
 ## Overview
 This project presents the modeling and simulation of two key spacecraft subsystems:
